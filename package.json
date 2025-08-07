@@ -1,0 +1,17 @@
+{
+  "name": "medicational-web",
+  "version": "1.0.0",
+  "description": "A medical information blog for medicine info",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["medicine", "blog", "medical", "information"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
